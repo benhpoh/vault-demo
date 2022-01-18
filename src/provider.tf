@@ -1,3 +1,3 @@
 provider "vault" {
-  address = "vault.something.com"
+  address = "https://vault.bradmccoy.io"
 }
